@@ -1,0 +1,22 @@
+{
+    "name": "Yee-English-Academy",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "start": "node server/server.js",
+      "develop": "",
+      "install": "",
+      "build": "",
+      "seed": ""
+    },
+    "keywords": [],
+    "author": "",
+    "license": "MIT",
+    "devDependencies": {
+      "concurrently": "^8.2.0"
+    },
+    "dependencies": {
+    }
+  }
+  
